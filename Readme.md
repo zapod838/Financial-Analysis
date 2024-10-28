@@ -1,6 +1,6 @@
-# Financial Reporting & Analysis with Power BI
+# Financial Analysis with Power BI
 
-Welcome to the **Financial Reporting & Analysis with Power BI** repository! This project demonstrates a comprehensive financial reporting solution, using **Power BI** to analyze and visualize critical financial data. By leveraging **Data Analysis Expressions (DAX)** and robust financial analysis techniques, this project delivers adaptable and interactive visualizations, enabling stakeholders to derive valuable insights from complex datasets.
+Welcome to the **Financial Analysis with Power BI** repository! This project demonstrates a comprehensive financial reporting solution, using **Power BI** to analyze and visualize critical financial data. By leveraging **Data Analysis Expressions (DAX)** and robust financial analysis techniques, this project delivers adaptable and interactive visualizations, enabling stakeholders to derive valuable insights from complex datasets.
 
 ## Features
 
